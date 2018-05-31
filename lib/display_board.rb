@@ -1,5 +1,3 @@
-board = ["   ","   ","   ","   ","   ","   ","   ","   "]
-
 def display_board
   space = ""   ","   ","   ""
   puts space
