@@ -1,7 +1,9 @@
 board = ["   ","   ","   ","   ","   ","   ","   ","   "]
 
 def display_board
-  dashes = "----------"
+  space = ""   ","   ","   ""
+  puts space
+  dash = "----------"
   puts dashes
   pipe = "|"
   puts pipe
