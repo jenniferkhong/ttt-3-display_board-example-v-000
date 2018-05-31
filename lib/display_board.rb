@@ -4,7 +4,7 @@ def display_board
   space = ""   ","   ","   ""
   puts space
   dash = "----------"
-  puts dashes
+  puts dash
   pipe = "|"
   puts pipe
 end
