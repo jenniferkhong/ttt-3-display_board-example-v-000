@@ -1,4 +1,8 @@
+board = ["   ","   ","   ","   ","   ","   ","   ","   "]
+
 def display_board
-  board = "   |","   |"   "
-  puts board
+  dashes = "----------"
+  puts dashes
+  pipe = "|"
+  puts pipe
 end
