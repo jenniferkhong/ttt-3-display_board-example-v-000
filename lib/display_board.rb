@@ -1,6 +1,6 @@
 def display_board
-  space = ""   ","   ","   ""
-  puts space
+  space = "   "
+  print space
   dash = "----------"
   puts dash
   pipe = "|"
