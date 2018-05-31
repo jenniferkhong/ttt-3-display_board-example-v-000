@@ -6,3 +6,5 @@ def display_board
   pipe = "|"
   puts pipe
 end
+
+display_board
